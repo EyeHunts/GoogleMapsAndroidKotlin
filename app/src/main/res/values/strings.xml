@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Maps Android Kotlin</string>
+    <string name="title_activity_maps">Google Maps Android</string>
+</resources>
